@@ -4,7 +4,15 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6b7349d-c39d-4df9-93d5-a9c4bc72cf1f" name="Default Changelist" comment="" />
+    <list default="true" id="f6b7349d-c39d-4df9-93d5-a9c4bc72cf1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/AppleGreenColorPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/AppleHeavyWeightPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/ApplePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/AppleRedHeavyPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cm/java8/predicate/functiondemo/FunctionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cm/java8/predicate/functiondemo/FunctionDemo.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,6 +26,7 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -25,101 +34,43 @@
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="27" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="27" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2665" />
+          <entry key="java" value="3787" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2665" />
+          <entry key="JAVA" value="3787" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/predicate/Apple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/predicate/predicatedemo/PredicateDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/predicate/consumerdemo/ConsumerDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="19" column="83" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="83" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/predicate/functiondemo/FunctionDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/.m2/settings.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/ProSoftware/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+            <state relative-caret-position="260">
+              <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,6 +92,9 @@
       <find>stream(</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -156,6 +110,11 @@
         <option value="$PROJECT_DIR$/src/main/java/cm/java8/predicate/predicatedemo/PredicateDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/cm/java8/predicate/consumerdemo/ConsumerDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/cm/java8/predicate/functiondemo/FunctionDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/ApplePredicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/AppleHeavyWeightPredicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/AppleGreenColorPredicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/Apple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/AppleRedHeavyPredicate.java" />
       </list>
     </option>
   </component>
@@ -176,8 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,7 +185,73 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cm" type="462c0819:PsiDirectoryNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="demo2_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cm" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
               <item name="predicate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cm" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="predicate" type="462c0819:PsiDirectoryNode" />
+              <item name="consumerdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cm" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="predicate" type="462c0819:PsiDirectoryNode" />
+              <item name="functiondemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cm" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="predicate" type="462c0819:PsiDirectoryNode" />
+              <item name="predicatedemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cm" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="predicate" type="462c0819:PsiDirectoryNode" />
+              <item name="predicatedemo" type="462c0819:PsiDirectoryNode" />
+              <item name="PredicateDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cm" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="predicate" type="462c0819:PsiDirectoryNode" />
+              <item name="prettyprintapple" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java8" type="b2602c69:ProjectViewProjectNode" />
@@ -266,12 +289,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581406951379" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581575918806" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../thrift-master/hello-thrift" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -293,7 +318,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FunctionDemo">
+  <component name="RunManager" selected="Application.Apple">
+    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cm.java8.demo2_1.Apple" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cm.java8.demo2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cm.java8.predicate.consumerdemo.ConsumerDemo" />
       <module name="java8" />
@@ -333,12 +371,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cm.java8.stream.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cm.java8.predicate.Main" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cm.java8.stream.*" />
+          <option name="PATTERN" value="cm.java8.predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,16 +411,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.ConsumerDemo" />
       <item itemvalue="Application.FunctionDemo" />
+      <item itemvalue="Application.Apple" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Apple" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.FunctionDemo" />
         <item itemvalue="Application.ConsumerDemo" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
@@ -404,16 +444,18 @@
       <workItem from="1581341195011" duration="595000" />
       <workItem from="1581406539927" duration="903000" />
       <workItem from="1581480919347" duration="38000" />
+      <workItem from="1581564432160" duration="4659000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11710000" />
+    <option name="totallyTimeSpent" value="16369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.27010724" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.27345845" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.2533512" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -423,7 +465,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32765958" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -506,57 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/stream/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/predicate/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/predicate/predicatedemo/PredicateDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/predicate/consumerdemo/ConsumerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="19" column="83" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/predicate/functiondemo/FunctionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/ProSoftware/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -568,6 +559,110 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/stream/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/ApplePredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/AppleHeavyWeightPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/AppleGreenColorPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/AppleRedHeavyPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/predicate/functiondemo/FunctionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/predicate/predicatedemo/PredicateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/predicate/consumerdemo/ConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/predicate/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cm/java8/demo2_1/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
