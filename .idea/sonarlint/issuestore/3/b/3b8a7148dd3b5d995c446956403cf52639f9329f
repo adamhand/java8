@@ -1,0 +1,10 @@
+
+Œ"squid:ClassVariableVisibilityCheck"RMake weight a static final constant or non-public and provide accessors if needed.(©ì¹ûÿÿÿÿ8ïÕùäƒ.
+isquid:UnusedPrivateMethod&"8Remove this unused private "filterApplesByColor" method.(¯„¥”øÿÿÿÿ8æŒæƒ.
+‹"squid:ClassVariableVisibilityCheck
+"QMake color a static final constant or non-public and provide accessors if needed.(æ®şôûÿÿÿÿ8ïÕùäƒ.
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(Ù›÷—ùÿÿÿÿ8 °‚åƒ.
+V
+squid:S106W"9Replace this use of System.out or System.err by a logger.(Â„Ç8‡¾Œåƒ.
+Tsquid:UselessImportCheck")Remove this unused import 'cm.java8.App'.(ã¥Øè8îÿúéƒ.
